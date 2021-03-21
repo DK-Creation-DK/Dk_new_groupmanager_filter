@@ -20,7 +20,7 @@ Alternatively, [find me on telegram](https://t.me/shamilnelli)! (Keep all suppor
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shamilhabeebnelli/shamil-groupManager)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shamilhabeebnelli/shamiltgmanager)
 
 
 ### Update Channel:
