@@ -35,7 +35,7 @@ Alternatively, [find me on telegram](https://t.me/shamilnelli)! (Keep all suppor
 <a href="https://github.com/shamilhabeebnelli"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/shamilhabeeb"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+<a href="https://instagram.com/_shamil.habeeb_"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-informational.svg?logo=instagram"></a>
 </p>
 <p align="left">
 <a href="https://www.facebook.com/shamilhabeebnelli"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
