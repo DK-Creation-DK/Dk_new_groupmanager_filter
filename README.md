@@ -1,19 +1,19 @@
-# shamil Group-Manager-1.0v
+# Dk Group-Manager-filter. 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [SHAMIL TG Group Manager Bot](https://t.me/shamilfilterbot).
+Can be found on telegram as [SHAMIL TG Group Manager Bot](https://t.me/DQ_Moviezoon_bot).
 
-Heiman TG Group Manager Bot and I are moderating a [support group](https://t.me/redbullfed), where you can ask for help setting up your
+Heiman TG Group Manager Bot and I are moderating a [support group](https://t.me/Movie_zoon), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [Update bot](https://t.me/shamilhelpbot) if you just want to stay in the loop about new features or
+Join the [Update bot](https://t.me/DQ_Moviezoon_bot) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/shamilnelli)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/cybersecurityhacker)! (Keep all support questions in the support chat, where more people can help you.)
 
 ### Demo Bot:
 <a href="https://t.me/shamilfilterbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
