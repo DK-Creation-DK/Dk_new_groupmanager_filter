@@ -20,11 +20,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 ഹായ് {}, എൻ്റെ പേര് {}! 
 
- ഞാൻ [Movie zoon](t.me/Movie_zoon) 😉.
+ ഞാൻ [Movie zoon]😉.
  ഗ്രൂപ്പിലെ അഡ്മിൻ ബോട്ടാണ്.
 എന്നെ മറ്റ് ഗ്രൂപ്പിൽ ആഡ് ആക്കാൻ പറ്റില്ല.
 എന്നെ നോക്കി നടത്തുന്നത്  [ഇദ്ദേഹം](https://t.me/DK369DK) ആണ് 
-
+നിന്നെ ഇവിടെ സഹായിക്കാൻ ആരുമില്ല. ©️™️💕💕💕💕💕💕💕💕💕💕💕
 
 
 
@@ -55,7 +55,7 @@ DONATE_STRING = """Hey, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/shamilnelli) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or Coffee \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](t.me/shamilnelli), or [Google Pay : +919746261063](instagram.com/_shamil.habeeb_)."""
+."""
 
 IMPORTED = {}
 MIGRATEABLE = []
