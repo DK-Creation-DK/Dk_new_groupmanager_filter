@@ -29,7 +29,7 @@ PM_START_TEXT = """
 
 
 
-**This Bot was Built By [ജിന്ന്](https://t.me/cybersecurityhacker)
+**This Bot was Built By [ജിന്ന്](https://t.me/cybersecurityhackerjinn)
 
 
 
