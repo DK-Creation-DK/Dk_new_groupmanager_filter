@@ -13,7 +13,7 @@ I'll also help when a database schema changes, and some table column needs to be
 Join the [Update bot](https://t.me/DQ_Moviezoon_bot) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/cybersecurityhacker)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/cybersecurityhackerjinn)! (Keep all support questions in the support chat, where more people can help you.)
 
 ### Demo Bot:
 <a href="https://t.me/shamilfilterbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
