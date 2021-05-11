@@ -4,7 +4,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [click here ](https://t.me/cybersecurityhackserjinn).
+Can be found on telegram as [click here ](https://t.me/DK369DK).
 
 Heiman TG Group Manager Bot and I are moderating a [support group](https://t.me/viruzhex), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
@@ -13,7 +13,7 @@ I'll also help when a database schema changes, and some table column needs to be
 Join the [Update bot](https://t.me/DQ_Moviezoon_bot) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/cybersecurityhackerjinn)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/DK369DK)! (Keep all support questions in the support chat, where more people can help you.)
 
 ### Demo Bot:
 <a href="https://t.me/shamilfilterbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
@@ -201,5 +201,5 @@ it is necessary to migrate it in the db.
 The `__stats__()` function is for retrieving module statistics, eg number of users, number of chats. This is accessed 
 through the `/stats` command, which is only available to the bot owner.
 
-© [SUPPORT ](https://t.me/cybersecurityhacker)
+© [SUPPORT ](https://t.me/DK369DK)
 
