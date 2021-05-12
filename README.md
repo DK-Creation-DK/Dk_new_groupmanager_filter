@@ -119,7 +119,7 @@ The following env variables are supported:
 
  - `TOKEN`: Your bot token, as a string.
  - `OWNER_ID`: An integer of consisting of your owner ID
- - `OWNER_USERNAME`: Your username
+ - `OWNER_USERNAME`: DK369DK
 
  - `DATABASE_URL`: Your database URL
  - `MESSAGE_DUMP`: optional: a chat where your replied saved messages are stored, to stop people deleting their old 
