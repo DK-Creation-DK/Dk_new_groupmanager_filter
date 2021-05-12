@@ -50,6 +50,58 @@ from tg_bot.sample_config import Config
 
 
 class Development(Config):
+    OWNER_ID = 1442087080# tgbot
+A modular telegram Python bot running on python3 with an sqlalchemy database.
+
+Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
+simple to use.
+
+Can be found on telegram as [DK CREATOR](https://t.me/DK369DK).
+
+Kochu and I are moderating a [support group](https://t.me/Keralabots), where you can ask for help setting up your
+bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
+I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
+
+Join the [news channel](https://t.me/KochuUpdates) if you just want to stay in the loop about new features or
+announcements.
+
+Alternatively, [find me on telegram](https://t.me/DK369DK)! (Keep all support questions in the support chat, where more people can help you.)
+
+To deploy me on heroku, use below button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DK-Creation-DK/Thankamma_aunty_kochubot)
+
+You can also contact me here [DK](https://t.me/DK369DK) 
+
+## Starting the bot.
+
+Once you've setup your database and your configuration (see below) is complete, simply run:
+
+`python3 -m tg_bot`
+
+
+## Setting up the bot (Read this before trying to use!):
+Please make sure to use python3.6, as I cannot guarantee everything will work as expected on older python versions!
+This is because markdown parsing is done by iterating through a dict, which are ordered by default in 3.6.
+
+### Configuration
+
+There are two possible ways of configuring your bot: a config.py file, or ENV variables.
+
+The prefered version is to use a `config.py` file, as it makes it easier to see all your settings grouped together.
+This file should be placed in your `tg_bot` folder, alongside the `__main__.py` file . 
+This is where your bot token will be loaded from, as well as your database URI (if you're using a database), and most of 
+your other settings.
+
+It is recommended to import sample_config and extend the Config class, as this will ensure your config contains all 
+defaults set in the sample_config, hence making it easier to upgrade.
+
+An example `config.py` file could be:
+```
+from tg_bot.sample_config import Config
+
+
+class Development(Config):
     OWNER_ID = 254318997  # my telegram ID
     OWNER_USERNAME = "DK369DK"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
@@ -79,4 +131,10 @@ The following env variables are supported:
  - `BMERNU_SCUT_SRELFTI`: No. of custom filters which can be set in each group
 
  - `SUDO_USERS`: A space separated list of user_ids which should be considered sudo users
- - `SUPPORT_USERS`: A space separated l.
+ - `SUPPORT_USERS`: A space separated l  # my telegram ID
+    OWNER_USERNAME = "DK369DK"  # my telegram username
+    API_KEY = "your bot api key"  # my api key, as provided by the botfather
+    SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
+    MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
+    USE_MESSAGE_DUMP = True
+    SUDO_USERS = [18673980, 83489514]  # List of id's for users which have sudo access 
