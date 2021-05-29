@@ -30,7 +30,7 @@ HELP_STRINGS = """
 എനിക്ക് നിൻ്റെ സഹായം ഒന്നും വേണ്ട😎😎.
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
-It took lots of work for [my creator](https://t.me/cybersecurityhackerjinn) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](https://t.me/DK369DKk) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or Coffee \
 (see his bio!). He's just a poor student, so every little helps!
 ."""
