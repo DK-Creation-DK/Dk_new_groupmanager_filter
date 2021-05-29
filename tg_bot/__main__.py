@@ -26,7 +26,6 @@ PM_START_TEXT = """
 """
 
 HELP_STRINGS = """
-
 Hello! my name *{}*.
 
 *Main* available commands:
