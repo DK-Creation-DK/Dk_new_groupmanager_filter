@@ -36,7 +36,7 @@ Hello! my name *{}*.
  - /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
-
+Join @Viruzhex 
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
