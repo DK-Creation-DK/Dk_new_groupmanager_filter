@@ -27,7 +27,19 @@ PM_START_TEXT = """
 
 HELP_STRINGS = """
 
-എനിക്ക് നിൻ്റെ സഹായം ഒന്നും വേണ്ട😎😎.
+Hello! my name *{}*.
+
+*Main* available commands:
+ - /start: Start the bot...
+ - /help: help....
+ - /donate: To find out more about donating!
+ - /settings:
+   - in PM: To find out what SETTINGS you have set....
+   - in a group:
+Join @Viruzhex for repo 
+{}
+And the following:
+""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n").
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
 It took lots of work for [my creator](https://t.me/DK369DKk) to get me to where I am now, and every donation helps \
